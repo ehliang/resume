@@ -1,4 +1,5 @@
 # Resume 
 My name is Ethan and this is my resume.<br/>
-Now you're thinking with portals. <br/>
+University of Waterloo Systems Design Engineering 2020<br/>
+Loves Hackathons, dogs, tech, planes, and long walks on the beach.<br/>
 :)
